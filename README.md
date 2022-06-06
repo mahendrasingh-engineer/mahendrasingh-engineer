@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahendra Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+<img align="right" alt = "coding" src="https://camo.githubusercontent.com/4f8c11735ce147547d07ef287fc55679e25a5caabc73ced734bd6cc88643a034/68747470733a2f2f7777772e7768697465736f75726365736f6674776172652e636f6d2f77702d636f6e74656e742f6d656469612f323032312f30352f61485669505463794e5445304a6d4e745a443170644756745a57527064473979615731685a32556d5a6d6c735a573568625755396158526c6257566b61585276636d6c745957646c587a566c4d6a41314d5751784f5759324e545575616e426e4a6e5a6c636e4e70623234394d4441774d435a7a615763394e474a684d44686d5a5755355a4451345a47566a4e6a63774e7a466c4e6d46684d4467334e7a6c694e7a4133442e6a706567"/>
+
 - 🔭 I’m currently working on Wallet-App(Backend)) [Wallet-app](https://github.com/bigyanKumar/Wallet-app)
 
 - 🌱 I’m currently learning **Springboot Framework(Java), Java Persistence Api, Mysql, Database designing**
@@ -29,9 +31,3 @@
 
 
 
-My Projects
-1.Revv-Clone
- ![revv](https://user-images.githubusercontent.com/59507085/172175868-6bc74211-0b7c-4a7f-ba21-2425a51cd218.png)
-
-![ebay](https://user-images.githubusercontent.com/59507085/172175905-fb088b8c-0042-4102-9354-ea7e78f52ec2.png)
- 
