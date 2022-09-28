@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahendrasingh561998@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xbk7Zx7r77iPH_QfxXcFtrYQ2msuAd2h5tWIJuGR5Zs/edit?usp=sharing](https://docs.google.com/document/d/1xbk7Zx7r77iPH_QfxXcFtrYQ2msuAd2h5tWIJuGR5Zs/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uHTGER_uBZUmNmqPS7hCoNcoLB4UzLFW/view?usp=sharing](https://drive.google.com/file/d/1uHTGER_uBZUmNmqPS7hCoNcoLB4UzLFW/view?usp=sharing)
 
 - ⚡ Fun fact **You can also enjoy Maths**
 
