@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot Framework(Java), Java Persistence Api, Mysql, Database designing**
 
-- 👨‍💻 All of my projects are available at [https://illustrious-caramel-f16b19.netlify.app/](https://illustrious-caramel-f16b19.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mahendra-singh-porfolio.netlify.app/](https://mahendra-singh-porfolio.netlify.app/)
 
 - 💬 Ask me about **Java, Springboot, Mysql, Database Designing, DSA**
 
